@@ -1,0 +1,7 @@
+Extracting data for Re=500...
+  Extracted 400 U vectors
+  Saved to simple_data/U_Re500.txt
+  Saved u-components to simple_data/Ux_Re500.txt
+  Extracted 0 mesh points
+  Saved to simple_data/points_Re500.txt
+  Error extracting points: too many indices for array
